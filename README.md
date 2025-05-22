@@ -13,7 +13,7 @@ This is the official website for **Harshith Sai Maruthi Driving School**.
 
 ## 🌐 Live Website
 
-Visit the live site here: [Click to Visit](https://HARSHITHSAIMARUTIDRIVINGSCHOOL.github.io/driving-school-site/)
+Visit the live site here: [Click to Visit](https://harshithsaimarutidrivingschool.github.io/driving-school-site/)
 
 ## 📬 Contact
 
